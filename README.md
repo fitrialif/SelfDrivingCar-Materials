@@ -1,5 +1,5 @@
 # Self Driving Car Materials
-Thanks to Devcon, Shazri, I able to get Udacity self driving car nanodegree materials and MIT slides.
+Thanks to Devcon and MIT slides, Shazri, I able to get Udacity self driving car nanodegree materials.
 
 ## Episode 1, Simple lane detection
 ![alt text](Episode1_SimpleLaneDetection/test_images/output.png)
