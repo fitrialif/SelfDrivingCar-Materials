@@ -21,4 +21,9 @@ Thanks to Devcon and MIT slides, Shazri, I able to get Udacity self driving car 
 ![alt text](unet/download.png)
 ### [You can get the code here](unet)
 
+## SSD with Distance
+<img src="https://github.com/huseinzol05/SSD-with-Distance/blob/master/img/output.png" width="500">
+
+### [You can get the code here](SSD-Distance)
+
 
